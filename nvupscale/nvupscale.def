@@ -1,0 +1,4 @@
+LIBRARY nvupscalefilter
+
+EXPORTS
+	GetFilterTable @1
